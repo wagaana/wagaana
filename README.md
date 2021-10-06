@@ -1,4 +1,4 @@
-<a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/wagaana/wagaana/main/banner_dark.png)</a>
+<a href="https://wagaana.com" rel="wagaana">![](https://raw.githubusercontent.com/wagaana/wagaana/main/banner_dark.png)</a>
 
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=wagaana&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/wagaana&hide_border=true)
