@@ -2,5 +2,5 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=wagaana&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=wagaana&theme=prussian&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=wagaana" />
 </p>
